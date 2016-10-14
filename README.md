@@ -2,9 +2,11 @@
 
 RacerZ is my first game built on python with pygame module.
 Thanks to Sentdex youtube video tutorials : https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ
-You are free to edit and redistribute the game, just don't forget to mention me somewhere :)
-My Facebook Profile : https://www.facebook.com/maik014
+You are free to edit and redistribute the game, just don't forget to mention me somewhere :) .
+
+Link to my Facebook profile : https://www.facebook.com/maik014
 Link to .exe Game : https://www.dropbox.com/s/uk9vwnvkcx5gn72/RacerZ%201.0.zip?dl=0
+
 --------------------------------------------------------------
 
 Update 1.0 :
